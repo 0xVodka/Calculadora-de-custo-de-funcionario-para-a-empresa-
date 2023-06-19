@@ -1,0 +1,11 @@
+C:\Users\ged-m\source\repos\Faculdade\Faculdade\bin\Release\Faculdade.exe.config
+C:\Users\ged-m\source\repos\Faculdade\Faculdade\bin\Release\Faculdade.exe
+C:\Users\ged-m\source\repos\Faculdade\Faculdade\bin\Release\Faculdade.pdb
+C:\Users\ged-m\source\repos\Faculdade\Faculdade\obj\Release\Faculdade.csproj.AssemblyReference.cache
+C:\Users\ged-m\source\repos\Faculdade\Faculdade\obj\Release\Faculdade.csproj.SuggestedBindingRedirects.cache
+C:\Users\ged-m\source\repos\Faculdade\Faculdade\obj\Release\Faculdade.Form1.resources
+C:\Users\ged-m\source\repos\Faculdade\Faculdade\obj\Release\Faculdade.Properties.Resources.resources
+C:\Users\ged-m\source\repos\Faculdade\Faculdade\obj\Release\Faculdade.csproj.GenerateResource.cache
+C:\Users\ged-m\source\repos\Faculdade\Faculdade\obj\Release\Faculdade.csproj.CoreCompileInputs.cache
+C:\Users\ged-m\source\repos\Faculdade\Faculdade\obj\Release\Faculdade.exe
+C:\Users\ged-m\source\repos\Faculdade\Faculdade\obj\Release\Faculdade.pdb

@@ -1,0 +1,11 @@
+C:\Users\ged-m\source\repos\Faculdade\Faculdade\bin\Debug\Faculdade.exe.config
+C:\Users\ged-m\source\repos\Faculdade\Faculdade\bin\Debug\Faculdade.exe
+C:\Users\ged-m\source\repos\Faculdade\Faculdade\bin\Debug\Faculdade.pdb
+C:\Users\ged-m\source\repos\Faculdade\Faculdade\obj\Debug\Faculdade.csproj.AssemblyReference.cache
+C:\Users\ged-m\source\repos\Faculdade\Faculdade\obj\Debug\Faculdade.csproj.SuggestedBindingRedirects.cache
+C:\Users\ged-m\source\repos\Faculdade\Faculdade\obj\Debug\Faculdade.Form1.resources
+C:\Users\ged-m\source\repos\Faculdade\Faculdade\obj\Debug\Faculdade.Properties.Resources.resources
+C:\Users\ged-m\source\repos\Faculdade\Faculdade\obj\Debug\Faculdade.csproj.GenerateResource.cache
+C:\Users\ged-m\source\repos\Faculdade\Faculdade\obj\Debug\Faculdade.csproj.CoreCompileInputs.cache
+C:\Users\ged-m\source\repos\Faculdade\Faculdade\obj\Debug\Faculdade.exe
+C:\Users\ged-m\source\repos\Faculdade\Faculdade\obj\Debug\Faculdade.pdb
